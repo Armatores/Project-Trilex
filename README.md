@@ -33,7 +33,7 @@ If vectors clash → **Damping** (Signal stops, 0 energy cost).
 ---
 *"We do not compute. We resonate."*
 ---
-License & Copyright
+License & Copyright.
 ​Code: Licensed under GNU GPLv3. You cannot use this code in closed-source proprietary software. 
 ​Theory & Texts: Licensed under Creative Commons CC BY-NC-SA 4.0.
 ​Copyright © 2025 Pavel Popov. All rights reserved.
